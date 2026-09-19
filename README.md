@@ -46,6 +46,9 @@ The dashboard transforms financial sales data into clear business KPIs and visua
 ## Dataset
 
 The dashboard uses Microsoft's Financial Sample dataset containing sales and financial information across products, countries, segments, and years.
+## Dashboard Preview
+
+![Business KPI Dashboard](dashboard.png)
 
 ## Project Structure
 
